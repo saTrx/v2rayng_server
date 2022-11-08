@@ -1,6 +1,6 @@
 #اپدیت  تاریخ 1401/08/16 
 #کانال تلگرام : @vmess_v2rayng
-<pre>vless://143936f6-a026-c319-11e3-76f85363617e@goodfamily8.site:443?encryption=none&security=tls&sni=goodfamily8.site&type=ws&host=goodfamily8.site&path=%2Fdbxxws#%40vmess_v2rayng%201
+vless://143936f6-a026-c319-11e3-76f85363617e@goodfamily8.site:443?encryption=none&security=tls&sni=goodfamily8.site&type=ws&host=goodfamily8.site&path=%2Fdbxxws#%40vmess_v2rayng%201
 vless://6db1e7ad-9e63-06ae-f85b-c9abd22b7582@newstwo5.online:443?encryption=none&security=tls&sni=newstwo5.online&type=ws&host=newstwo5.online&path=%2Fysniws#%40vmess_v2rayng%202
 vless://6db1e7ad-9e63-06ae-f85b-c9abd22b7582@newstwo5.online:443?encryption=none&security=tls&sni=newstwo5.online&type=ws&host=newstwo5.online&path=%2Fysniws#%40vmess_v2rayng%203
 trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?security=tls&sni=stutter.freetrade.link&type=tcp&headerType=none#%40vmess_v2rayng%204
@@ -16,4 +16,4 @@ vless://b255a046-b16a-4dd8-b3c3-45288175129e@iran-server-vmess-vip-paris1.duckdn
 vless://6db1e7ad-9e63-06ae-f85b-c9abd22b7582@newstwo5.online:443?encryption=none&security=tls&sni=newstwo5.online&type=ws&host=newstwo5.online&path=%2Fysniws#%40vmess_v2rayng%2015
 vless://6db1e7ad-9e63-06ae-f85b-c9abd22b7582@newstwo5.online:443?encryption=none&security=tls&sni=newstwo5.online&type=ws&host=newstwo5.online&path=%2Fysniws#%40vmess_v2rayng%2030
 trojan://4e80c06b-ca55-488d-9a56-02e2c76d23a3@nl-full.privateip.net:443?security=tls&type=tcp&headerType=none#%40vmess_v2rayng%2042
-vless://6db1e7ad-9e63-06ae-f85b-c9abd22b7582@119.247.119.212:443?encryption=none&security=tls&sni=newstwo5.online&type=ws&host=newstwo5.online&path=%2Fysniws#%40vmess_v2rayng%2048</pre>
+vless://6db1e7ad-9e63-06ae-f85b-c9abd22b7582@119.247.119.212:443?encryption=none&security=tls&sni=newstwo5.online&type=ws&host=newstwo5.online&path=%2Fysniws#%40vmess_v2rayng%2048
